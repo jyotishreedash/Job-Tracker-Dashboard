@@ -1,7 +1,6 @@
 # Job Tracker Dashboard
 
-A full-stack Job Tracker Dashboard built with **Express**, **TypeScript**, and **Vite** to help track job applications efficiently. This project follows clean backend architecture and modern tooling, making it suitable for real-world production use and DevOps/MLOps learning.
-
+A full-stack Job Tracker Dashboard built with **Express**, **TypeScript**, and **Vite** to help track job applications efficiently. 
 ---
 
 ## 🚀 Features
